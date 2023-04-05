@@ -1,9 +1,8 @@
-## Hi there 👋, I'm Mariano
+## H� there 👋, I'm M�rian�
 
 its dangerous to go alone take this:
 
 <img src="https://rm.up.railway.app/" width="250px" />
-
 
 - 🔭 I’m currently working on SCV soft
 - 👯 I’m looking to collaborate on public projects
