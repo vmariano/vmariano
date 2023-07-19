@@ -4,7 +4,7 @@ its dangerous to go alone take this:
 
 <img src="https://rm.up.railway.app/" width="250px" />
 
-- 🔭 I’m currently working on SCV soft
+- 🔭 I’m currently working on Blue Alba
 - 👯 I’m looking to collaborate on public projects
 - 🤔 I’m looking for help with carer path
 
