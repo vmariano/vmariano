@@ -18,7 +18,7 @@ its dangerous to go alone take this:
 - [Ergonomics](https://github.com/vmariano/vmariano/blob/main/Chamuyando%20ergonomia.pptx) 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vicentemariano) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentemariano) 
 
 
 ---
